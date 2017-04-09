@@ -43,21 +43,21 @@ Bsc in Economics and Management with Logistics
 Manage the daily logistics of pick, pack and despatch. Upload new products to the website, eBay and Amazon
 
 **RoCHe Recruitment Solutions** (Oct 2014 - Feb 2015)   
-*Talent Consultant Intern* 
+*Talent Consultant Intern*  
 Source, interview and select candidates against a stringent criteria
  
-**rhubarb @ Royal Albert Hall** (March 2014 –Apr 2015)
-*Shift Leader*
+**rhubarb @ Royal Albert Hall** (March 2014 –Apr 2015)  
+*Shift Leader*  
 Assisting the day-to-day running of a restaurant, with the main focus on staff management and development
 
 Worked in various positions in warehousing and catering between 2011 and 2014
 
-**GE Capital Budapest Bank** (January 2011 - July 2011)
-*Supplier Management Intern*
+**GE Capital Budapest Bank** (January 2011 - July 2011)  
+*Supplier Management Intern*  
 Working with the Lead Analyst to support the Software and Hardware Procurement and consolidate the number of systems and suppliers used.
 
-**MOL** (September 2010 - December 2010)
-*Buyer Trainee*
+**MOL** (September 2010 - December 2010)  
+*Buyer Trainee*  
 Assisting the Lead Buyer in all elements of the MRO procurement process including sourcing new/approved suppliers, renewing and tendering contracts, price negotiations
 
 ## Interests
