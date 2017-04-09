@@ -43,7 +43,7 @@ Bsc in Economics and Management with Logistics
 Manage the daily logistics of pick, pack and despatch. Upload new products to the website, eBay and Amazon
 
 **RoCHe Recruitment Solutions** (Oct 2014 - Feb 2015)   
- *Talent Consultant Intern* 
+*Talent Consultant Intern* 
 Source, interview and select candidates against a stringent criteria
  
 **rhubarb @ Royal Albert Hall** (March 2014 –Apr 2015)
