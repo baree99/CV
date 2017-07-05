@@ -1,6 +1,6 @@
 ## Peter Barcsak
 
-As you read through my CV you might wonder how did I ended up studying Web Development to change my life. You may think I am completely new to it, but looking back, all in my previous jobs I learnt parts of it. How to solve problems via innovating systems, how to communicate effectively, how to be a team player, how to have an eye for detail and how to be a better and more knowledgeable person than I was the day before.
+As you read through my CV, you might wonder how I ended up deciding to change my life and study web development. You may think I'm completely new to it, but looking back, in all of my previous jobs I've learnt skills which I now use in programming every day. How to solve problems via innovating systems, how to communicate effectively, how to be a team player, how to have an eye for detail, and how to always be a better and more knowledgeable person than I was the day before.
 
 ## Skills
 
