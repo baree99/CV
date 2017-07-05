@@ -5,17 +5,20 @@ As you read through my CV, you might wonder how I ended up deciding to change my
 ## Skills
 
 #### Problem Solving
-At RoCHe we often had issue with identifying who had been approached by the different team members for the same role. I created a shared resourcing spreadsheet to be able to follow up on contacted candidates real time.
 
-#### Effective communication
-As a Shift Leader I was responsible for a team of 10-12 employees. Communication was the key to inform everyone about recent changes during service time.
+At RoCHe, we often had issues with identifying who had been approached by different team members for the same role. I created a shared resourcing spreadsheet to be able to follow up on contacted candidates in real time.
 
-#### Team player
-My favourite sport is football. I am playing it since I was a little kid. In football, a team always have to share the same goal. You need to know your teammates strength and weaknesses. Ask for help when needed and help others out. I believe this is a skill I can use in any environment.
+#### Effective Communication
+
+As a Shift Leader I was responsible for a team of 10-12 employees. Communication was key to informing everyone about recent changes during service time.
+
+#### Team Player
+
+My favourite sport is football. I've played it since I was a little kid. In football, a team always have to share the same goal. You need to know your teammates strengths and weaknesses, to be able to ask for help when needed, and help others out. I believe this is a skill I can use in any environment.
 
 #### Eye for Detail
-During my time at Pedal Pedal, I tested the development website to ensure the company’s standards for functionality and User Experience are met.
 
+During my time at Pedal Pedal, I tested the development website to ensure the company’s standards for functionality and User Experience were met.
 
 ## Education
 
