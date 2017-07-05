@@ -20,6 +20,15 @@ My favourite sport is football. I've played it since I was a little kid. In foot
 
 During my time at Pedal Pedal, I tested the development website to ensure the company’s standards for functionality and User Experience were met.
 
+## Projects
+
+| Project | Summary | Technologies | Undertaken |  
+|----|----|----|----|  
+| [Platypus Web Browser](https://github.com/baree99/web-browser) | A command line web browser | Node.js, Blessed | Team of 4 Junior Devs |
+| [Online poker](https://github.com/baree99/OnlinePokerProject) | Randomly deals cards and picks the best possible hand | Node.js, Express.js, Angular.js | Team of 4 Junior Devs |
+| [Tic Tac Toe](https://github.com/baree99/tic-tac-toe) | Business logic for Tic Tac Toe game | Node.js | Alone |
+| [Bank Tech Test](https://github.com/baree99/bank-tech-test) | My solution to the popular tech test | Node.js | Alone |
+
 ## Education
 
 #### Makers Academy (March 2017 - July 2017)
@@ -42,13 +51,9 @@ Bsc in Economics and Management with Logistics
 **E-Commerce Logistics and Operations Manager** (March 2015 - April 2017)    
 *Pedal Pedal (online retailer of bike parts and accessories)*  
 *	Data content management: uploading products to the web store, eBay and Amazon
-*	Search Engine Optimisation (SEO)
-*	Data mapping
-*	Analysing weekly sales to maximise revenue
-*	Forecasting sales to optimise reorders for 10 000 skus
+*	Analysing weekly sales to maximise revenue and optimise reorders for 10 000 skus
 *	Identify new products to drive growth
 *	Pricing the products on Google shopping, eBay and Amazon
-*	Create new storage methods to improve the efficiency of the warehouse
 *	Launched the Amazon store of the company
 
 
@@ -58,20 +63,15 @@ Bsc in Economics and Management with Logistics
 *	Network and advertise to potential candidates via Linkedin, different job boards and referrals
 *	Identify skills to match appropriately with vacancies, CV preparation
 *	Intensive research, company profiling/mapping utilising a variety of online tools
-*	Candidate Compliance, ensuring UK law is adhered to at all times
-*	Draft, review and upload job specifications online
 *	Improved company processes for shared resourcing
 
  
 **Shift Leader** (March 2014 –Apr 2015)  
 *rhubarb @ Royal Albert Hall (event catering and restaurants)*  
 *	Promoted to Shift Leader from Supervisor after 6 months
-*	Assisting the day-to-day running of a 120 seats restaurant
 *	Staff management and development
-*	Achieving targets set by the Manager, ensuring that maximum profitability is achieved (continously broke previous sales records) 
+*	The team continously broke previous sales records
 *	Delivering excellent customer service
-*	Merchandising the bar and the front of house area
-*	Ensuring that all health and safety requirements are met and adhered to
 *	Created a new stock ordering system, optimised PAR levels to meet the business daily requirements
 
 
